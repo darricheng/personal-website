@@ -1,0 +1,67 @@
+baseURL = "https://www.darricheng.com/"
+theme = "hugo-coder"
+languageCode = "en-us"
+title = "the Heng way"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+# disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+author = "Darric Heng"
+info = "Full Stack Software Engineer"
+description = "Darric's personal website"
+keywords = "blog,developer,software,personal"
+avatarurl = "images/avatar.jpg"
+# gravatar = "john.doe@example.com"
+
+faviconSVG = "/img/favicon.svg"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+
+since = 2023
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/darricheng"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/darric-heng/"
+
+# Menu links
+[[menu.main]]
+name = "Blog"
+weight = 1
+url = "posts/"
+[[menu.main]]
+name = "About"
+weight = 2
+url = "about/"
+[[menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
