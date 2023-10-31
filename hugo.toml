@@ -9,7 +9,7 @@ paginate = 20
 # disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
-style = "github-dark"
+style = "catppuccin-frappe"
 
 [params]
 author = "Darric Heng"
@@ -17,7 +17,6 @@ info = "Full Stack Software Engineer"
 description = "Darric's personal website"
 keywords = "blog,developer,software,personal"
 avatarurl = "images/avatar.jpg"
-# gravatar = "john.doe@example.com"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon-32x32.png"
@@ -56,7 +55,7 @@ url = "https://www.linkedin.com/in/darric-heng/"
 [[menu.main]]
 name = "Blog"
 weight = 1
-url = "posts/"
+url = "blog/"
 [[menu.main]]
 name = "About"
 weight = 2
