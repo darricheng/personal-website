@@ -16,7 +16,7 @@ author = "Darric Heng"
 info = "Full Stack Software Engineer"
 description = "Darric's personal website"
 keywords = "blog,developer,software,personal"
-avatarurl = "images/avatar.jpg"
+avatarurl = "images/darric_heng.jpg"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon-32x32.png"
