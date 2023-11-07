@@ -55,7 +55,7 @@ url = "https://www.linkedin.com/in/darric-heng/"
 [[menu.main]]
 name = "Posts"
 weight = 1
-url = "post/"
+url = "posts/"
 [[menu.main]]
 name = "About"
 weight = 2
