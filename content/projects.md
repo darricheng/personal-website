@@ -10,7 +10,7 @@ Some stuff that I work on (both past and present).
 
 ## Actively developing
 
-I am actively working on these projects in my free time.
+I am actively working on these projects.
 
 ### Personal Finance App
 
