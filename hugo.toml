@@ -64,3 +64,11 @@ url = "about/"
 name = "Projects"
 weight = 2
 url = "projects/"
+[[menu.main]]
+name = "Contact"
+weight = 3
+url = "contact/"
+[[menu.main]]
+name = "Resume"
+weight = 3
+url = "resume/"
