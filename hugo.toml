@@ -53,13 +53,13 @@ url = "https://www.linkedin.com/in/darric-heng/"
 
 # Menu links
 [[menu.main]]
-name = "Posts"
-weight = 1
-url = "posts/"
-[[menu.main]]
 name = "About"
-weight = 2
+weight = 1
 url = "about/"
+[[menu.main]]
+name = "Posts"
+weight = 2
+url = "posts/"
 [[menu.main]]
 name = "Projects"
 weight = 2
