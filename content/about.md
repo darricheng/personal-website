@@ -8,7 +8,7 @@ author = "Darric Heng"
 
 I got my first taste of programming on my first job at a startup. I enjoyed it enough to commit myself to a full career switch with a course from General Assembly. However, I was not prepared for the overflowing interest and passion that was to follow shortly after.
 
-I think there are three main points why I love software:
+I think there are three main reasons why I love software:
 
 1. I love the feeling of empowerment that software gives me. With my skills, I can create real solutions to real problems that people face in this world, starting with solving problems that I face.
 2. I also have an innate curiousity and desire to learn. I find myself being curious about how things work, and I like to dig deep to build up my knowledge of the inner workings of things from the bottom up. In this sense, computers and software is perfect for me. Being an ever-growing field, I find that there will always be something new to learn no matter how much I learn.
