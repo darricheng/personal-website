@@ -68,7 +68,7 @@ url = "projects/"
 name = "Contact"
 weight = 3
 url = "contact/"
-[[menu.main]]
-name = "Resume"
-weight = 3
-url = "resume/"
+# [[menu.main]]
+# name = "Resume"
+# weight = 3
+# url = "resume/"
