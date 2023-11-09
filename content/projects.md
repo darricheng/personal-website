@@ -26,7 +26,7 @@ Once I went all in on Neovim, there was no turning back. I consider it my longes
 
 ## Archive
 
-Projects that I worked on in the past, and do not update unless I have a strong reason to do so. I consider these archived for various reasons, the most common being I achieved what I wanted out of the project. If you encounter any broken links or projects, feel free to reach out to me, I would greatly appreciate it.
+Projects that I worked on in the past, and do not update unless I have a strong reason to do so. I consider these archived for various reasons, the most common being I achieved what I wanted out of the project. If you encounter any broken links or projects, feel free to [reach out to me](/contact/), I would greatly appreciate it.
 
 ### Halo Card Game
 
