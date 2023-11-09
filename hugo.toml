@@ -18,9 +18,9 @@ description = "Darric's personal website"
 keywords = "blog,developer,software,personal"
 avatarurl = "images/darric_heng.jpg"
 
-faviconSVG = "/img/favicon.svg"
-favicon_32 = "/img/favicon-32x32.png"
-favicon_16 = "/img/favicon-16x16.png"
+faviconSVG = "images/favicon/favicon.svg"
+favicon_32 = "images/favicon/favicon-32x32.png"
+favicon_16 = "images/favicon/favicon-16x16.png"
 
 since = 2023
 
