@@ -22,7 +22,7 @@ I never really learnt how to properly manage my finances, so I'm building this a
 
 Once I went all in on Neovim, there was no turning back. I consider it my longest running project to continuously improve my overall development experience.
 
-[Config repository](https://github.com/darricheng/nvim.config)
+[Dotfiles](https://github.com/darricheng/nvim.config)
 
 ## Archive
 
