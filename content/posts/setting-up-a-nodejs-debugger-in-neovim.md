@@ -119,7 +119,7 @@ I'll briefly go over the two different request types and how to use each, with s
 
 With this configuration, the debug adapter is responsible for launching the application that we are trying to debug. That means we will restart the application every time we start a new debugging session.
 
-Refer to the [[#Debugger Config|code snippet in the debugger config section]] for a basic launch configuration for NodeJS. Below describes each option.
+Refer to the [code snippet in the debugger config section](#debugger-config) for a basic launch configuration for NodeJS. Below describes each option.
 
 - `type`: The debug adapter that we are using, which is `pwa-node`.
 - `request`: The debugger will launch the application for debugging.
@@ -145,7 +145,7 @@ Below is a basic attach configuration for NodeJS.
 },
 ```
 
-Refer to the [[#Launch|launch configuration]] for the descriptions of type, request, name, and cwd.
+Refer to the [launch configuration](#launch) for the descriptions of type, request, name, and cwd.
 
 - `address`: The address at which your application is running.
 - `port`: The port of the application that is exposed for debugging. The default for NodeJS is 9229.
