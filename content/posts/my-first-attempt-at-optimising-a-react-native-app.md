@@ -4,7 +4,7 @@ date = 2023-09-18T16:55:23+08:00
 draft = false
 description = "My experience speeding up a react native app by optimising state updates"
 slug = "my-first-attempt-at-optimising-a-react-native-app"
-languages = ["javascript", "react"]
+languages = ["javascript", "typescript", "react"]
 topic = ["performance optimisation"]
 +++
 
