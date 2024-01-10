@@ -19,4 +19,6 @@ Instead, I am learning that it is probably better for me professionally in the l
 
 A third point is about how I have managed the increase in my responsibilities as I have grown older. Generally, I find myself clinging to priorities from my younger years, even as newer and more important priorities started appearing in my life. A simple example would be the management of finances. I am only just starting to see the importance of investing (kind of late, but the second best time to start is now) and would like to invest way more time and effort into securing a future for myself and my family. However, the necessary time isn't going to magically out of thin air, I have to put aside other priorities to make time for learning about investing.
 
-A combination of the above and a growing acceptance that the time I have with this miraculous thing called life is limited has resulted in my theme for the year. More focus; less exploration. More creating; less consuming. More depth; less breadth. More less; less more.
+A combination of the above and a growing acceptance that the time I have with this miraculous thing called life is limited has resulted in my theme for the year. More focus; less exploration. More creating; less consuming. More depth; less breadth.
+
+More less; less more.
