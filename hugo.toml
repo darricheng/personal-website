@@ -11,7 +11,7 @@ pluralizeListTitles = false
 
 [params]
 brand = "Darric Heng"
-description = "Darric's personal website"
+description = "In love with Rust. Learning to be a better software engineer. A fan of learning how things work under the hood."
 brand_image = "/images/darric_heng.jpg"
 
 favicon = "images/favicon/favicon.svg"
