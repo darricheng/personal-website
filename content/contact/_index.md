@@ -1,9 +1,6 @@
 +++
 title = "Contact"
-description = "Contact Darric"
-date = "2023-11-09"
-aliases = ["contact"]
-author = "Darric Heng"
+description = "How you can reach Darric Heng"
 +++
 
 You can reach me via the following channels.
