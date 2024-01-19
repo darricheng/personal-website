@@ -12,5 +12,11 @@ hugo.linux
 # Temporary lock file while building
 /.hugo_build.lock
 
+# Prettier and node stuff only needed locally
 /node_modules
+pnpm-lock.yaml
+package.json
+.prettierrc
+
+# Others
 .DS_Store
