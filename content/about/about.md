@@ -1,9 +1,6 @@
 +++
 title = "About"
-description = "About Darric"
-date = "2023-11-07"
-aliases = ["about-me", "about-darric"]
-author = "Darric Heng"
+description = "About Darric Heng"
 +++
 
 I got my first taste of programming on my first job at a startup. I enjoyed it enough to commit myself to a full career switch with a course from General Assembly. However, I was not prepared for the overflowing interest and passion that was to follow shortly after.
