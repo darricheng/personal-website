@@ -4,7 +4,7 @@ date = 2023-09-25T16:09:56+08:00
 draft = false
 description = "How I try to write more as a software engineer"
 slug = "writing-more-as-a-software-engineer"
-topic = ["writing", "professional-life"]
+tags = ["writing", "professional-life"]
 +++
 
 I've recently become a software engineer after a career switch from marketing. In my short time so far, I've come to realise the importance of writing regularly.

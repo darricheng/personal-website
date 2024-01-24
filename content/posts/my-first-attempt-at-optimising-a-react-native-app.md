@@ -4,8 +4,7 @@ date = 2023-09-18T16:55:23+08:00
 draft = false
 description = "My experience speeding up a react native app by optimising state updates"
 slug = "my-first-attempt-at-optimising-a-react-native-app"
-languages = ["javascript", "typescript", "react"]
-topic = ["performance optimisation"]
+tags = ["javascript", "typescript", "react", "performance optimisation"]
 +++
 
 A while back, I was tasked with improving the performance of our mobile app. Performance optimisation is not a new thing to me, as I've seen YouTubers doing various kinds of performance benchmark comparisons of different tools. However, it was my first time trying to optimise a real production app, and I found it fun! I detail some of my investigations and discoveries during the process, and share what I learnt from this experience.

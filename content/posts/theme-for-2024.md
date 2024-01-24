@@ -4,7 +4,7 @@ date = 2024-01-03T11:15:19+08:00
 draft = false
 description = "My guiding theme for the new year 2024"
 slug = "theme-for-2024"
-topic = ["life", "resolutions"]
+tags = ["life", "resolutions"]
 +++
 
 More less; less more.

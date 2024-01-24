@@ -4,7 +4,7 @@ date = 2023-07-24T11:21:47+08:00
 draft = false
 description = "How to balance learning vs delivering at work"
 slug = "learning-vs-delivering"
-topic = ["professional-life"]
+tags = ["professional-life"]
 +++
 
 Software is complex. Developing a feature that is user-friendly, performant, and secure, while also writing code that is clean is already a real challenge. There are many articles and videos that discuss the various tradeoffs that businesses face when developing software. Take too long to develop, and the business won't meet its delivery goals; develop too quickly, and we might miss out critical issues like security.

@@ -4,8 +4,7 @@ date = 2023-12-21T20:18:57+08:00
 draft = false
 description = "How to set up a debugger for NodeJS in Neovim"
 slug = "setting-up-nodejs-debugging-in-neovim"
-languages = ["javascript", "typescript"]
-topic = ["debugging", "nodejs"]
+tags = ["javascript", "typescript", "debugging", "nodejs"]
 +++
 
 ## Introduction
