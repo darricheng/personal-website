@@ -1,7 +1,7 @@
 +++
 title = 'Teleterm Chat - Part 0'
 date = 2024-01-25T19:37:03+08:00
-draft = true
+draft = false
 series = 'Teleterm Chat'
 tags = ["terminal", "rust"]
 +++
