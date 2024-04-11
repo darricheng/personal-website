@@ -4,7 +4,7 @@ date = 2024-01-11T18:39:28+08:00
 draft = false
 description = "How my 2024 started off with a bang thanks to news from the company I just joined"
 slug = "when-life-throws-you-a-curveball"
-tags = ["life", "career", "job"]
+tags = ["professional-life", "career", "job"]
 +++
 
 At the end of 2023, I left the company that first kickstarted my journey as a software engineer due to my disagreements with the company's culture.

@@ -4,7 +4,7 @@ date = 2024-04-11T13:22:48+08:00
 draft = false
 description = "I describe some CS concepts that I picked up while learning Rust."
 slug = "picking-up-cs-basics-with-rust"
-tags = ["rust", "javascript", "computer science"]
+tags = ["rust", "javascript", "computer-science"]
 +++
 
 Finding my passion for software engineering late (in this case meaning a few years after college) meant that my first real taste of a programming language was with JavaScript. I went through a career transition like many others with a bootcamp, which focused on teaching us skills that could be immediately applied to real jobs, i.e. JavaScript (also React, but it really is just part of JavaScript). However, I wasn't satisfied with what I was learning; I wanted more; I wanted to learn what goes on in the layers below that have been abstracted away from us. So I ventured into learning Rust next.

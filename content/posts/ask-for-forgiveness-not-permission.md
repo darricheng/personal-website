@@ -4,7 +4,7 @@ date = 2023-10-13T09:40:13+08:00
 draft = false
 description = "The first time I tried using the quote ask for forgiveness, not permission"
 slug = "ask-for-forgiveness-not-permission"
-tags = ["javascript", "rust", "performance optimisation"]
+tags = ["javascript", "rust", "performance-optimisation"]
 +++
 
 I came across this saying from ThePrimeagen, that as a software engineer, we should not ask for permission to do things. Instead, when we see a potential solution to a problem, create prototypes to show others the solution. Then, if things don't work out, ask for forgiveness. This is in contrast to asking for permission to work on a potential solution before actually getting down to creating anything.
