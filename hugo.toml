@@ -6,9 +6,6 @@ defaultcontentlanguage = "en"
 paginate = 10
 pluralizeListTitles = false
 
-# For using Disqus as a commenting engine
-# disqusShortname = "yourdiscussshortname"
-
 [params]
 brand = "Darric Heng"
 description = "In love with Rust. Learning to be a better software engineer. A fan of learning how things work under the hood."
