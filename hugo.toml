@@ -3,8 +3,10 @@ theme = "poison"
 languageCode = "en-us"
 title = "Darric Heng"
 defaultcontentlanguage = "en"
-paginate = 10
 pluralizeListTitles = false
+
+[pagination]
+pagerSize = 10
 
 [params]
 brand = "Darric Heng"
